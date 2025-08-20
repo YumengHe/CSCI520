@@ -1,5 +1,10 @@
 # USC CSCI520 Course Notes - Spring 2025
 
+🌟 Hi, I'm [Yumeng He](https://heyumeng.com). If you find this repository helpful, please consider giving it a star!
+
+🌟 Final grade ranked 1 out of 62.
+
+## Course Page
 CSCI520 Computer Graphics and Animation [Course Page](https://viterbi-web.usc.edu/~jbarbic/cs520-s25/)
 
 ## Notes
