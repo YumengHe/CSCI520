@@ -4,6 +4,8 @@ Course Website: [https://viterbi-web.usc.edu/~jbarbic/cs520-s25/](https://viterb
 
 Semester: Spring 2025
 
+Professor: Jernej Barbič
+
 Final grade: A (ranked 1 out of 62)
 
 ## 💯 Grading Criteria
