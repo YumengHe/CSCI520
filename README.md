@@ -6,15 +6,18 @@ Semester: Spring 2025
 
 Professor: Jernej Barbič
 
-Final grade: A (ranked 1 out of 62)
+Final grade: 106.8/100 (ranked 1 out of 62)
+
+Personal comments:
+This is a hardcore course that covers most of the fundamental concepts in computer graphics. It is challenging, and some topics can be difficult to grasp at first. However, it is quite manageable to earn an A if you stay on top of the assignments and take advantage of the extra credit opportunities. The professor and TA are very supportive. I strongly recommend attending office hours regularly, even if you do not have specific questions about the coursework. Discussing career advice or industry experience can be just as valuable, and you will often gain insights beyond the class material.
 
 ## 💯 Grading Criteria
-| Component | Weight (%) | Notes |
-|-----------|------------|-------|
-| Assignment 1 | 21 | Extra credit 25% maximum |
-| Assignment 2 | 21 | Extra credit 20% maximum |
-| Assignment 3 | 21 | Extra credit 25% maximum |
-| Final Exam | 37 | |
+| Component | Weight | Notes | My score |
+|-----------|--------|-------|----------|
+| Assignment 1 | 21% | Maximum 25% extra credit | 125% |
+| Assignment 2 | 21% | Maximum 20% extra credit | 115% |
+| Assignment 3 | 21% | Maximum 25% extra credit | 125% |
+| Final Exam | 37% | | 81.5% |
 
 
 ## 📄 Notes
